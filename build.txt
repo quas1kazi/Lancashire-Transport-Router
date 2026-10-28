@@ -1,0 +1,13 @@
+HOW TO RUN THE PROJECT: 
+1. Ensure that node.js is installed. To install it, copy and paste the following lines into the terminal:
+-- Download and install nvm:
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+-- in lieu of restarting the shell
+\. "$HOME/.nvm/nvm.sh"
+-- Download and install Node.js:
+nvm install 24
+
+2. Once completed, enter "node server.js" into the terminal
+
+3. This should output the local url for you to go to (typically "http://localhost:3000"). 
+Copy this into a chrome browser and the application shoud appear with a loading screen.

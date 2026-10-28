@@ -1,0 +1,21 @@
+{
+  "name": "scc200_router_application",
+  "version": "0.5.0",
+  "description": "A bus and train transport application for the Lancashire area.",
+  "homepage": "https://github.com/mSmithy34/SCC200_Router_Application#readme",
+  "bugs": {
+    "url": "https://github.com/mSmithy34/SCC200_Router_Application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mSmithy34/SCC200_Router_Application.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
